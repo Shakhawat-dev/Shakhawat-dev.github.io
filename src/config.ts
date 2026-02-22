@@ -13,6 +13,13 @@ export const siteConfig = {
     "Passionate and results-driven iOS Developer with years of experience who is dedicated to creating exceptional mobile applications through the implementation of clean and maintainable code. Focused on delivering Applications that are not only intuitive but also adhere to industry best practices. Currently learning cross platform development using Flutter. Expertise mainly on Native iOS Development with a deep understanding of Swift and SwiftUI but also have bit knowledge on Native Android and Flutter. Always aim for delivering quality large-scale applications for millions of users in mind. Participated in a few Hackathons and Programming competitions and had commendable results previously.",
   skills: ["Swift", "SwiftUI", "UiKit", "Kotlin", "Combine", "Java", "Dart", "Flutter", "Git", "Python", "XML", "C++", "SQL", "HTML", "JSON", "C", "CSS", "MySQL", "Linux", "Firebase", "Bootstrap", "Android Studio", "Jira", "BitBucket", "Firebase", "Figma", "Adobe XD", "Postman"],
   projects: [
+      {
+      name: "Thrive Field Force",
+      description:
+        "Thrive HRMIS is a comprehensive human resource management tool designed to streamline employee attendance, leave management, and profile tracking. Built with user convenience in mind, Thrive HRMIS ensures that you stay on top of your workday and simplifies HR tasks, making it easier for employees and managers to stay connected and organized",
+      link: "https://apps.apple.com/us/app/thrive-field-force/id6754688930",
+      skills: ["Flutter", "Dart", "Face Detection", "Maps", "etc"],
+    },
     {
       name: "LIMS (Labour Information Management System)",
       description:
