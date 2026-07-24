@@ -1,0 +1,184 @@
+{
+  "personalInfo": {
+    "name": "MD Shakhawat Hossain Shahin",
+    "title": "Senior iOS Developer",
+    "phone": "+8801856508888",
+    "email": "shakhawat.dev@gmail.com",
+    "website": "https://shakhawat-dev.github.io",
+    "github": "https://github.com/Shakhawat-dev",
+    "linkedin": "https://linkedin.com/in/shakhawat-dev",
+    "location": "Dhaka, Bangladesh",
+    "avatar": "assets/images/profile.jpg",
+    "coverImage": "assets/images/cover.jpg",
+    "summary": "Senior iOS Developer with a strong background in developing robust, scalable iOS applications using Swift, SwiftUI, UIKit etc. Experienced in designing modular architectures, integrating complex APIs and improving application performance and stability. Passionate about creating high-quality user experiences and delivering impactful mobile products."
+  },
+  "skillGroups": [
+    {
+      "category": "iOS Development",
+      "items": ["Swift", "SwiftUI", "UIKit", "Combine", "Core Data", "UserNotifications"]
+    },
+    {
+      "category": "Cross-Platform & Android",
+      "items": ["Flutter", "Dart", "XML", "Kotlin", "Java"]
+    },
+    {
+      "category": "Architecture & APIs",
+      "items": ["MVVM", "Clean Architecture", "RESTful APIs", "URLSession", "Alamofire", "OAuth2", "JSON Parsing"]
+    },
+    {
+      "category": "Database & Cloud",
+      "items": ["Firebase", "SQL/MySQL", "Spring Boot", "NodeJs"]
+    },
+    {
+      "category": "Tools & Design",
+      "items": ["Git/BitBucket", "Postman", "Jira", "Figma", "Adobe XD"]
+    },
+    {
+      "category": "Other Specializations",
+      "items": ["Unity VR (Oculus)", "SSL/Foster/Payment Gateways", "Client Management"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SIMEC System Ltd.",
+      "role": "Senior iOS Developer",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2021-03-10",
+      "endDate": null,
+      "highlights": [
+        "Led a team of 4 App Developers, mentoring junior engineers and enforcing code quality through structured code reviews.",
+        "Architected scalable iOS applications using MVVM + Clean Architecture, improving maintainability and reducing feature delivery time.",
+        "Developed Thrive Field Force, ShikhonSetu, LIMS, MBE - Islamic Foundation, MOCAT, Eilm, DSS-HRMS, Chaad Ride and other Govt. and Private projects.",
+        "Learned Flutter and developed the STOCKER app.",
+        "Learned Unity VR and developed a project for Oculus VR."
+      ],
+      "projects": ["Thrive Field Force", "ShikhonSetu", "LIMS", "MBE - Islamic Foundation", "MOCAT", "Eilm", "DSS-HRMS", "Chaad Ride", "STOCKER"]
+    },
+    {
+      "company": "Royal Green Ltd.",
+      "role": "iOS Developer",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2020-08-01",
+      "endDate": "2021-03-01",
+      "highlights": [
+        "Requirement analysis and implementing new features to existing applications.",
+        "Designed and developed PACE NET and PACE Cloud iOS Application.",
+        "Learned SwiftUI and Combine."
+      ],
+      "projects": ["PACE NET", "PACE Cloud"]
+    },
+    {
+      "company": "AiSoftz Ltd.",
+      "role": "iOS Developer",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2019-09-01",
+      "endDate": "2020-08-01",
+      "highlights": [
+        "Developed Alama360 iOS Application using UIKit.",
+        "Developed House Keeper Android Application.",
+        "Learned iOS Development using UIKit.",
+        "Bug fixing and support."
+      ],
+      "projects": ["Alama360", "House Keeper"]
+    },
+    {
+      "company": "Mensa DigiWorld",
+      "role": "Software Developer",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2018-10-01",
+      "endDate": "2019-08-01",
+      "highlights": [
+        "Java desktop software development.",
+        "Implemented new features to existing applications.",
+        "Bug fixing and support."
+      ],
+      "projects": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science and Engineering",
+      "institution": "Britannia University",
+      "url": "https://britannia.edu.bd/",
+      "location": "Cumilla, Bangladesh",
+      "startDate": "2015-02-01",
+      "endDate": "2021-02-01"
+    }
+  ],
+  "training": [
+    {
+      "degree": "Learning and Earning Development Project",
+      "institution": "ICT Division Bangladesh",
+      "url": "https://ictd.gov.bd/",
+      "location": "Cumilla, Bangladesh",
+      "startDate": "2017-09-01",
+      "endDate": "2017-12-01"
+    },
+    {
+      "degree": "Google Android Study Jam",
+      "institution": "Google Developers Group Bangladesh",
+      "url": "https://gdg.community.dev/gdg-dhaka/",
+      "location": "Cumilla, Bangladesh",
+      "startDate": "2016-07-14",
+      "endDate": "2016-11-14"
+    }
+  ],
+  "awards": [
+    {
+      "title": "NASA Space Apps Challenge – 2019 (Regional Winner)",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "title": "ACM ICPC Regional (Dhaka - Participant Onsite) 2018",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "title": "NASA Space Apps Challenge – 2018 (Regional Runners-Up)",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "title": "3rd Intra University Programming Contest – Winner",
+      "location": ""
+    },
+    {
+      "title": "Google Android Study Jam",
+      "location": "Cumilla, Bangladesh"
+    },
+    {
+      "title": "Web Development (LICT)",
+      "location": "Cumilla, Bangladesh"
+    },
+    {
+      "title": "Learning and Earning Development Project (LEDP)",
+      "location": "Cumilla, Bangladesh"
+    },
+    {
+      "title": "National Hackathon 2016 (Participant)",
+      "location": "Dhaka, Bangladesh"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Bengali",
+      "isMotherTongue": true
+    },
+    {
+      "name": "English",
+      "isMotherTongue": false,
+      "listening": "C1",
+      "reading": "C1",
+      "writing": "C1",
+      "spokenProduction": "B2",
+      "spokenInteraction": "B2"
+    },
+    {
+      "name": "Hindi",
+      "isMotherTongue": false,
+      "listening": "C1",
+      "reading": "A1",
+      "writing": "A1",
+      "spokenProduction": "C1",
+      "spokenInteraction": "C1"
+    }
+  ]
+}
