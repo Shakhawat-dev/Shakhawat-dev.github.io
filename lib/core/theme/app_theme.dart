@@ -47,15 +47,6 @@ class AppTheme {
       textTheme: textTheme,
       dividerColor: colorScheme.outlineVariant.withValues(alpha: 0.4),
       splashFactory: InkRipple.splashFactory,
-      pageTransitionsTheme: const PageTransitionsTheme(
-        builders: {
-          TargetPlatform.android: ZoomPageTransitionsBuilder(),
-          TargetPlatform.iOS: CupertinoPageTransitionsBuilder(),
-          TargetPlatform.macOS: ZoomPageTransitionsBuilder(),
-          TargetPlatform.linux: ZoomPageTransitionsBuilder(),
-          TargetPlatform.windows: ZoomPageTransitionsBuilder(),
-        },
-      ),
       chipTheme: ChipThemeData(
         backgroundColor:
             isDark ? AppColors.darkSurfaceAlt : AppColors.lightSurfaceAlt,
