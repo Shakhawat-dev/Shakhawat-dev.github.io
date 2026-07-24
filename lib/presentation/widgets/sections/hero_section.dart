@@ -119,9 +119,9 @@ class HeroSection extends StatelessWidget {
               ),
             ),
             OutlinedButton.icon(
-              onPressed: () => LaunchUtils.openUrl(personalInfo.website),
-              icon: const Icon(Icons.language_rounded),
-              label: const Text('Visit website'),
+              onPressed: () => LaunchUtils.openUrl(personalInfo.github),
+              icon: const Icon(Icons.code_rounded),
+              label: const Text('View GitHub'),
               style: OutlinedButton.styleFrom(
                 padding: const EdgeInsets.symmetric(horizontal: 22, vertical: 16),
               ),
